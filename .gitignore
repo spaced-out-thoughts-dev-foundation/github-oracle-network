@@ -13,3 +13,7 @@ yarn-error.log*
 /.changelog
 .npm/
 .next/
+node_modules/
+.next*
+.swc/
+.*.env
